@@ -2,7 +2,6 @@
 
 ## Requirements
 
-* Linux
 * Git
 * Github
 * Java 15
