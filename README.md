@@ -7,7 +7,7 @@
 * Java 15
 * Docker
 * IntelliJ Community
-
+* HerokuCLI
 
 ## DataBase
 
